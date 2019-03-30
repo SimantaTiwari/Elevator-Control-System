@@ -1,0 +1,9 @@
+D:\C# program\ElevatorSystem\ElevatorSystem\bin\Debug\ElevatorSystem.exe.config
+D:\C# program\ElevatorSystem\ElevatorSystem\bin\Debug\ElevatorSystem.exe
+D:\C# program\ElevatorSystem\ElevatorSystem\bin\Debug\ElevatorSystem.pdb
+D:\C# program\ElevatorSystem\ElevatorSystem\obj\Debug\ElevatorSystem.csprojResolveAssemblyReference.cache
+D:\C# program\ElevatorSystem\ElevatorSystem\obj\Debug\ElevatorSystem.Elevator_System.resources
+D:\C# program\ElevatorSystem\ElevatorSystem\obj\Debug\ElevatorSystem.Properties.Resources.resources
+D:\C# program\ElevatorSystem\ElevatorSystem\obj\Debug\ElevatorSystem.csproj.GenerateResource.Cache
+D:\C# program\ElevatorSystem\ElevatorSystem\obj\Debug\ElevatorSystem.exe
+D:\C# program\ElevatorSystem\ElevatorSystem\obj\Debug\ElevatorSystem.pdb
